@@ -1,2 +1,0 @@
-# GYRO_MOUSE
-Arduino+MPU6050+Python=GYRO_MOUSE
