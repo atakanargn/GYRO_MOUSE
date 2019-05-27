@@ -2,4 +2,4 @@
 Arduino+MPU6050+Python=GYRO_MOUSE
 
 ## TUTORIAL
-https://atakanargn.wordpress.com/2018/02/16/gyro_mouse/
+https://atakanargn.blogspot.com/2018/07/mpu6050-gyro-mouse.html
